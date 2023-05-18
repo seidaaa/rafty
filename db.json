@@ -9,20 +9,8 @@
 			"dates": [{
 					"date_from": "2023-06-16",
 					"date_to": "2023-06-25",
-					"day_count": 10,
+					"day_count": 15,
 					"price_from": 17990
-				},
-				{
-					"date_from": "2023-06-30",
-					"date_to": "2023-07-09",
-					"day_count": 10,
-					"price_from": 19990
-				},
-				{
-					"date_from": "2023-07-07",
-					"date_to": "2023-07-16",
-					"day_count": 10,
-					"price_from": 19990
 				}
 			]
 		},
@@ -35,18 +23,12 @@
 			"dates": [{
 					"date_from": "2023-06-16",
 					"date_to": "2023-06-25",
-					"day_count": 10,
+					"day_count": 4,
 					"price_from": 16880
 				},
 				{
-					"date_from": "2023-06-30",
+					"date_from": "2023-07-24",
 					"date_to": "2023-07-09",
-					"day_count": 10,
-					"price_from": 19990
-				},
-				{
-					"date_from": "2023-07-07",
-					"date_to": "2023-07-16",
 					"day_count": 10,
 					"price_from": 19990
 				}
@@ -63,18 +45,6 @@
 					"date_to": "2023-06-25",
 					"day_count": 10,
 					"price_from": 15980
-				},
-				{
-					"date_from": "2023-06-30",
-					"date_to": "2023-07-09",
-					"day_count": 10,
-					"price_from": 19990
-				},
-				{
-					"date_from": "2023-07-07",
-					"date_to": "2023-07-16",
-					"day_count": 10,
-					"price_from": 19990
 				}
 			]
 		}

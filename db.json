@@ -45,6 +45,18 @@
 					"date_to": "2023-06-25",
 					"day_count": 10,
 					"price_from": 15980
+				},
+				{
+					"date_from": "2023-06-30",
+					"date_to": "2023-07-09",
+					"day_count": 10,
+					"price_from": 19990
+				},
+				{
+					"date_from": "2023-07-07",
+					"date_to": "2023-07-16",
+					"day_count": 10,
+					"price_from": 19990
 				}
 			]
 		}

@@ -25,6 +25,58 @@
 					"price_from": 19990
 				}
 			]
+		},
+
+        {
+			"title": "Rafting na Balkáně",
+			"url": "https://www.adventura.cz/zajezdy/6516-rafting-na-balkane/",
+			"insurance_country": "Rakousko",
+			"main_photo": "https://media.adventura.cz/public/cache/2a/b3/2ab3c4a61961603de8e936d1e509d4e5.jpg",
+			"dates": [{
+					"date_from": "2023-06-16",
+					"date_to": "2023-06-25",
+					"day_count": 10,
+					"price_from": 16880
+				},
+				{
+					"date_from": "2023-06-30",
+					"date_to": "2023-07-09",
+					"day_count": 10,
+					"price_from": 19990
+				},
+				{
+					"date_from": "2023-07-07",
+					"date_to": "2023-07-16",
+					"day_count": 10,
+					"price_from": 19990
+				}
+			]
+		},
+
+        {
+			"title": "Letní řeky Chorvatska",
+			"url": "https://www.adventura.cz/zajezdy/6507-rafting-na-salze/",
+			"insurance_country": "Chorvatsko",
+			"main_photo": "https://media.adventura.cz/public/cache/5f/e2/5fe20b68f8e89149183b9d14eb7b4cdd.jpg",
+			"dates": [{
+					"date_from": "2023-06-16",
+					"date_to": "2023-06-25",
+					"day_count": 10,
+					"price_from": 15980
+				},
+				{
+					"date_from": "2023-06-30",
+					"date_to": "2023-07-09",
+					"day_count": 10,
+					"price_from": 19990
+				},
+				{
+					"date_from": "2023-07-07",
+					"date_to": "2023-07-16",
+					"day_count": 10,
+					"price_from": 19990
+				}
+			]
 		}
 
 	]

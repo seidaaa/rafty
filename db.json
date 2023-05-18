@@ -1,30 +1,31 @@
-"tours" : [
-   
-    {
-        "title":"Rafting na Salze",
-        "url":"https://www.adventura.cz/zajezdy/6507-rafting-na-salze/",
-        "insurance_country":"Rakousko",
-        "main_photo":"https://media.adventura.cz/public/cache/89/6d/896d0b896e45313d5ce2e19064478df0.jpg",
-        "dates":[
-            {
-                "date_from":"2023-06-16",
-                "date_to":"2023-06-25",
-                "day_count":10,
-                "price_from":17990
-            },
-            {
-                "date_from":"2023-06-30",
-                "date_to":"2023-07-09",
-                "day_count":10,
-                "price_from":19990
-            },
-            {
-                "date_from":"2023-07-07",
-                "date_to":"2023-07-16",
-                "day_count":10,
-                "price_from":19990
-            }
-        ]
-    }
-    
-]
+{
+	"tours": [
+
+		{
+			"title": "Rafting na Salze",
+			"url": "https://www.adventura.cz/zajezdy/6507-rafting-na-salze/",
+			"insurance_country": "Rakousko",
+			"main_photo": "https://media.adventura.cz/public/cache/89/6d/896d0b896e45313d5ce2e19064478df0.jpg",
+			"dates": [{
+					"date_from": "2023-06-16",
+					"date_to": "2023-06-25",
+					"day_count": 10,
+					"price_from": 17990
+				},
+				{
+					"date_from": "2023-06-30",
+					"date_to": "2023-07-09",
+					"day_count": 10,
+					"price_from": 19990
+				},
+				{
+					"date_from": "2023-07-07",
+					"date_to": "2023-07-16",
+					"day_count": 10,
+					"price_from": 19990
+				}
+			]
+		}
+
+	]
+}
